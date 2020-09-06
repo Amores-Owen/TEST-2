@@ -1,0 +1,55 @@
+*{
+	margin:4;
+	padding:4;
+}
+body {
+  background-color: cornsilk;
+}
+
+.title{
+	text-align:center;
+}
+.nav{
+	font-size:30px;
+	margin: 0.01px;
+	position:fixed;	
+	background-color:crimson;
+	list-style: none;
+	text-align:left;
+	padding: 10px;
+	width: 95%;
+}
+p{
+	margin-top:15px;
+	margin-bottom:15px;
+	margin-left:4em;
+	margin-right:8em;
+	font-size:20px;
+	color:black;
+	font-family:arial;
+	text-align:justify;
+}
+
+ hr{
+   	border:4px solid;
+	width:1250px;
+	margin-right:120px;
+	margin-left:120px;
+}
+
+ul{
+	text-align:center;
+	font-size: 30px;
+}
+
+.Two{
+	text-align:center;
+	font-size: 40px;
+}
+table{
+
+	margin-top:15px;
+	margin-left:15px;
+	font-size:20px;
+    font-family:sans-serif;
+}
